@@ -1,3 +1,4 @@
+test`
 #adding line before rebase conflicts notices
 adding extra 
 adding exxtra content to test git
