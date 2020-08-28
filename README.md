@@ -2,6 +2,7 @@
 ## adding extra line
 This is to check how comparision works in git
 This repository is for showing how Git and GitHub work
+##testing rebash
 again edirting 
 ## Purpose
 Hi
